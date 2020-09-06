@@ -53,7 +53,6 @@ void key_names::set_key_name() {
     keyboard _keyboard;
 
     _key_enter.set_symbol();
-    //k_names = _keyboard.get_key_map(_key_enter.get_symbol().symbols)._direct_key->get_key_codes().key_name;
     k_names = _keyboard.get_key_map(_key_enter.get_symbol().symbols)._direct_key->get_key_codes();
 }
 
