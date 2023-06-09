@@ -1,4 +1,7 @@
 # 15game
-<p>Game "Fifteen" running via Linux terminal</p>
-<p>While running the terminal is swiched to direct mode without need to use "Enter" key</p>
-<p><b>Try to put the letters one by one with "up" "down" "left" and "right" keys</b></p>
+
+Game "Fifteen" running via Linux terminal
+
+While running the terminal is swiched to direct mode without need to use "Enter" key
+
+<b>Try to put the letters one by one with `up` `down` `left` and `right` keys</b>
