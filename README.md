@@ -6,4 +6,4 @@ While running the terminal is swiched to direct mode without need to use "Enter"
 
 Try to put the letters one by one with <b>`up` `down` `left`</b> and <b>`right`</b> keys
 
-![Screenshot of 15 game for Linux terminal](https://github.com/Evgenk2020/15game/blob/master/img/screen.png)
+![Screenshot of 15 game for Linux terminal](/img/screen.png)
