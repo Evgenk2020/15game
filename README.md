@@ -1,6 +1,12 @@
 # 15game
 
-Game "Fifteen" running via Linux terminal
+<b>Game "Puzzle 15" running via Linux terminal</b>
+
+<hr>
+
+This game was written with pure C++ experience some years ago when I just started to learn it. This repository could be deleted but let it stay. After all it is still working and looking fun enough.
+
+<hr>
 
 While running the terminal is swiched to direct mode without need to use "Enter" key
 
