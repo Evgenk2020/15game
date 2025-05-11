@@ -4,7 +4,7 @@
 
 <hr>
 
-This game was written with pure C++ experience some years ago when I just started to learn it. This repository could be deleted but let it stay. After all it is still working and looking fun enough.
+This game was written without any experience in C++ some years ago when I just started to learn myself coding. This repository could be deleted but let it stay. After all it is still working and looking fun.
 
 <hr>
 
